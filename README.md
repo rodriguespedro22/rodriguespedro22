@@ -3,11 +3,20 @@
 <p align="center">Charqueadas, RS · Brasil</p>
 
 <p align="center">
+  <a href="https://rodriguespedro22.github.io/"><img alt="Ver meu portfólio" src="https://img.shields.io/badge/VER_MEU_PORTF%C3%93LIO-rodriguespedro22.github.io-ff7a1f?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+</p>
+
+<p align="center">
+  Projetos com vídeo e demonstração, trajetória e contato em um só lugar:<br>
+  <a href="https://rodriguespedro22.github.io/"><b>rodriguespedro22.github.io</b></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/pedrorodrigues2"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pedrorodrigues2-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:pedro.dacunha02@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-pedro.dacunha02%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
-**Navegação:** [Sobre](#sobre) · [Projetos](#projetos-em-destaque) · [Stack](#stack) · [Experiência](#experiência) · [Formação](#formação) · [Contato](#contato)
+**Navegação:** [Portfólio](https://rodriguespedro22.github.io/) · [Sobre](#sobre) · [Projetos](#projetos-em-destaque) · [Stack](#stack) · [Experiência](#experiência) · [Formação](#formação) · [Contato](#contato)
 
 ## Sobre
 
@@ -82,4 +91,4 @@ Parte do código é de uso interno de empresa e fica em repositórios privados. 
 
 ## Contato
 
-Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/pedrorodrigues2) ou por [e-mail](mailto:pedro.dacunha02@gmail.com).
+Veja o [portfólio](https://rodriguespedro22.github.io/) e fale comigo pelo [LinkedIn](https://www.linkedin.com/in/pedrorodrigues2) ou por [e-mail](mailto:pedro.dacunha02@gmail.com).
