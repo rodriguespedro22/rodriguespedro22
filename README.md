@@ -26,7 +26,7 @@ Desenvolvedor full stack com experiência na construção de sistemas web, plata
 Hoje trabalho com **dados e automação em um grande grupo varejista**, onde coloquei em produção painéis, promoções online e ferramentas internas. Antes disso passei por suporte de TI, o que me deixou com um hábito: pensar em quem vai usar e em quem vai manter.
 
 - Cursando Tecnologia em Sistemas para Internet no IFSul.
-- Aberto a vagas e projetos de desenvolvimento **full stack**.
+- Aberto a oportunidades e projetos de desenvolvimento: **full stack, front-end e back-end**.
 
 ## Projetos em destaque
 
